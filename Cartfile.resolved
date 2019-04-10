@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "v2.2.1"
-github "bdan-fairchild/dexcom-share-client-swift" "v1.0"
+github "LoopKit/LoopKit" "v2.2.2"
+github "bdan-fairchild/dexcom-share-client-swift" "25fa77f2e83e10361afaa5462e6c3d25acb1b3d0"
